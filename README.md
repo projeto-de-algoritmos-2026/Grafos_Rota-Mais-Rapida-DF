@@ -195,3 +195,7 @@ cd backend && python dijkstra.py   # só o algoritmo, num grafo de teste
 
 O `dijkstra.py` roda sobre um grafo de 4 vértices, sem OSMnx nem rede — bom
 para verificar o algoritmo isolado.
+
+## Vídeo de Apresentação
+
+[Assista no YouTube](https://youtu.be/FgOLd6GFR54)
